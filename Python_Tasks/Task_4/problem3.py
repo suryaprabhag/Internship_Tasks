@@ -1,4 +1,4 @@
-# Problem 2: Python Division
+# Problem 3: Python Division
 # HackerRank Link: https://www.hackerrank.com/challenges/python-division/problem
 
     a = int(input())
