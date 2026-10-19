@@ -1,0 +1,21 @@
+# Problem 18: String Construction
+# HackerRank Link: https://www.hackerrank.com/challenges/string-construction/problem
+
+
+def stringConstruction(s):
+    unique_chars = set(s)
+    return len(unique_chars)
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+
+    q = int(input().strip())
+
+    for q_itr in range(q):
+        s = input()
+
+        result = stringConstruction(s)
+
+        fptr.write(str(result) + '\n')
+
+    fptr.close()
