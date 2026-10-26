@@ -85,7 +85,7 @@ This repository will be updated as new internship assignments and HackerRank cha
 
 ## Author
 
-**Mahesh Rebba**
+**SuryaPrabha Rebba**
 
 Python Learning | Problem Solving | Programming Practice
 
